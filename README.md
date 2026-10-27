@@ -5,11 +5,11 @@
 
 Building client websites, full stack applications, and multiplayer browser games.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_my_work-0F172A?style=for-the-badge&logo=vercel&logoColor=white)](https://personal-web-william.vercel.app/)
-&nbsp;&nbsp;&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let%27s_connect-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/jan-william-a1529337a/)
-&nbsp;&nbsp;&nbsp;
-[![Email](https://img.shields.io/badge/Email-Get_in_touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:janwilliam3770@gmail.com)
+<a href="https://personal-web-william.vercel.app/"><img src="assets/portfolio-link.svg" alt="Portfolio — Visit my work" width="184" height="60"></a>
+&nbsp;
+<a href="https://www.linkedin.com/in/jan-william-a1529337a/"><img src="assets/linkedin-link.svg" alt="LinkedIn — Let's connect" width="184" height="60"></a>
+&nbsp;
+<a href="mailto:janwilliam3770@gmail.com"><img src="assets/email-link.svg" alt="Email — Get in touch" width="184" height="60"></a>
 
 </div>
 
