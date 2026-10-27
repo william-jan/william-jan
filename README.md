@@ -9,7 +9,7 @@ Building client websites, full stack applications, and multiplayer browser games
 &nbsp;
 <a href="https://www.linkedin.com/in/jan-william-a1529337a/"><img src="assets/linkedin-link.svg" alt="LinkedIn — Let's connect" width="184" height="60"></a>
 &nbsp;
-<a href="mailto:janwilliam3770@gmail.com"><img src="assets/email-link.svg" alt="Email — Get in touch" width="184" height="60"></a>
+<a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=janwilliam3770%40gmail.com" target="_blank" rel="noopener noreferrer"><img src="assets/email-link.svg" alt="Email — Write an email in Gmail" width="184" height="60"></a>
 
 </div>
 
